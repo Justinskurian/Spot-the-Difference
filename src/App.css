@@ -14,7 +14,7 @@ body::before {
   left: 0;
   height: 100%;
   width: 100%;
-  background: url("src/assets/Background.jpg") center / cover no-repeat fixed;
+  background: url("assets/Background.jpg") center / cover no-repeat fixed;
   filter: blur(100px);
   z-index: -1;
   pointer-events: none;
